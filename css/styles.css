@@ -135,3 +135,11 @@ hr{
     align-items: center;
     justify-content: center;
 }
+.attribution{
+    margin: 50px;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color:hsl(215, 51%, 70%);
+}
